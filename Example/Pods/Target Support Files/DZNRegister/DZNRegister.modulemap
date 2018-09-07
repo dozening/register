@@ -1,0 +1,6 @@
+framework module DZNRegister {
+  umbrella header "DZNRegister-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DZNRegister (0.1.0)
+
+DEPENDENCIES:
+  - DZNRegister (from `../`)
+
+EXTERNAL SOURCES:
+  DZNRegister:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZNRegister: 7a53c4b03039141569735219412bbb690abd601f
+
+PODFILE CHECKSUM: 65702e53051f320e88b9078bd91a4c20a39679ac
+
+COCOAPODS: 1.5.3
